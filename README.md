@@ -16,7 +16,6 @@
 
 Este proyecto es una **API REST** desarrollada en **Spring Boot** que se conecta con la [PokéAPI](https://pokeapi.co/), sincronizando sus datos a una base de datos local para exponer endpoints optimizados.  
 
-El objetivo es evitar realizar peticiones constantes a la API pública, mejorando el rendimiento y reduciendo la carga sobre la fuente externa.  
 Dado que los datos de los Pokémon **no cambian frecuentemente**, se ha optado por un **servicio programado que actualiza la base de datos cada 12 horas**, además de permitir la sincronización manual mediante un endpoint.
 
 ---
