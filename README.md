@@ -1,5 +1,17 @@
 # Pokémon API 🧩
 
+![Java](https://img.shields.io/badge/Java-11%2B-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1-brightgreen)
+![H2 Database](https://img.shields.io/badge/Database-H2-lightgrey)
+![Lombok](https://img.shields.io/badge/Lombok-Enabled-blue)
+![JUnit 5](https://img.shields.io/badge/Testing-JUnit5-red)
+![Postman](https://img.shields.io/badge/Postman-Collection-orange)
+![Swagger](https://img.shields.io/badge/Swagger-Docs-lightblue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+## 🌎 Link to Spanish version
+[README en Español](README.md)
+
 ## Descripción del proyecto
 
 Este proyecto es una **API REST** desarrollada en **Spring Boot** que se conecta con la [PokéAPI](https://pokeapi.co/), sincronizando sus datos a una base de datos local para exponer endpoints optimizados.  
@@ -51,7 +63,9 @@ curl -s "http://localhost:8080/pokemon/heaviest?numPokemon=5"
 curl -X POST "http://localhost:8080/pokemon/sync"
 
 ```
-## Arquitectura y estructura del proyecto
+---
+
+## 🏗️ Arquitectura y estructura del proyecto
 
 La aplicación sigue una arquitectura en capas típica de Spring Boot, separando responsabilidades para mantener el código limpio, escalable y fácil de testear.
 
