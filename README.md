@@ -341,27 +341,29 @@ El proyecto combina **tests de integración** para validar el flujo completo de 
 
 
 📸 Capturas
+
 1️⃣ Documentación Swagger
 
 <img width="1856" height="1040" alt="image" src="https://github.com/user-attachments/assets/7354377d-2c02-47e3-846b-c3dee91730cb" />
 
 2️⃣ Ejemplo de petición GET /highest
 
-
-Respuesta JSON de los Pokémon más altos.
+<img width="1132" height="1076" alt="image" src="https://github.com/user-attachments/assets/b7db256c-cebc-410b-80be-25f1f8c4febc" />
 
 3️⃣ Ejemplo de petición GET /heaviest
 
+<img width="1132" height="1067" alt="image" src="https://github.com/user-attachments/assets/d10b0235-45c2-40c3-9c1c-afc9faff12f7" />
 
-Respuesta JSON de los Pokémon más pesados.
+4️⃣ Ejemplo de petición GET /highestExperience
 
-4️⃣ Ejemplo de sincronización POST /sync
+<img width="1131" height="1032" alt="image" src="https://github.com/user-attachments/assets/3e7fce47-6a76-41f5-89e8-40acbbe8c957" />
 
+5️⃣ Ejemplo de sincronización POST /sync
 
-Confirmación de sincronización exitosa.
+<img width="1100" height="287" alt="image" src="https://github.com/user-attachments/assets/65b50a46-4fe5-4120-9209-32e3a7c29d15" />
 
-5️⃣ Archivo de colección Postman
+6️⃣ Archivo de colección Postman
 
-Descargar colección Postman
+[Descargar colección Postman](postman/PokemonAPI.postman_collection.json)
 
 Incluye todos los endpoints listos para probar en Postman.
