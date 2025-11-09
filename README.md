@@ -364,6 +364,6 @@ El proyecto combina **tests de integración** para validar el flujo completo de 
 
 6️⃣ Archivo de colección Postman
 
-[Descargar colección Postman](postman/PokemonAPI.postman_collection.json)
+[Descargar colección Postman](postman/PokemonApi.postman_collection.json)
 
 Incluye todos los endpoints listos para probar en Postman.
