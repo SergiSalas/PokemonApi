@@ -338,3 +338,30 @@ El proyecto combina **tests de integración** para validar el flujo completo de 
 - **Más atributos de Pokémon:** incluir información adicional como tipos, habilidades, sprites o movimientos.  
 - **Logging avanzado:** implementar registros detallados de las operaciones para facilitar debugging y monitorización.  
 - **Base de datos persistente:** reemplazar H2 por una base de datos real (PostgreSQL, MySQL, etc.) para entornos de producción y escalabilidad.
+
+
+📸 Capturas
+1️⃣ Documentación Swagger
+
+<img width="1856" height="1040" alt="image" src="https://github.com/user-attachments/assets/7354377d-2c02-47e3-846b-c3dee91730cb" />
+
+2️⃣ Ejemplo de petición GET /highest
+
+
+Respuesta JSON de los Pokémon más altos.
+
+3️⃣ Ejemplo de petición GET /heaviest
+
+
+Respuesta JSON de los Pokémon más pesados.
+
+4️⃣ Ejemplo de sincronización POST /sync
+
+
+Confirmación de sincronización exitosa.
+
+5️⃣ Archivo de colección Postman
+
+Descargar colección Postman
+
+Incluye todos los endpoints listos para probar en Postman.
