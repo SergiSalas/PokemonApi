@@ -16,7 +16,6 @@
 
 This project is a **REST API** developed with **Spring Boot** that connects to the [PokéAPI](https://pokeapi.co/), syncing its data to a local database to expose optimized endpoints.  
 
-The goal is to avoid making constant requests to the public API, improving performance and reducing the load on the external source.  
 Since Pokémon data **does not change frequently**, a **scheduled service updates the database every 12 hours**, while also allowing manual synchronization via an endpoint.
 
 ---
