@@ -9,8 +9,8 @@
 ![Swagger](https://img.shields.io/badge/Swagger-2.7.0-yellowgreen)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
-## 🌎 Enlace a la versión en inglés
-[English README](README_EN.md)
+## 🌎 Link to Spanish version
+[README en Español](README.md)
 
 ## Project Description
 
