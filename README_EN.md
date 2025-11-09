@@ -1,13 +1,13 @@
 # Pokémon API 🧩
 
-![Java](https://img.shields.io/badge/Java-11%2B-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1-brightgreen)
-![H2 Database](https://img.shields.io/badge/Database-H2-lightgrey)
-![Lombok](https://img.shields.io/badge/Lombok-Enabled-blue)
-![JUnit 5](https://img.shields.io/badge/Testing-JUnit5-red)
-![Postman](https://img.shields.io/badge/Postman-Collection-orange)
-![Swagger](https://img.shields.io/badge/Swagger-Docs-lightblue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-brightgreen)
+![Maven](https://img.shields.io/badge/Maven-3.9.2-orange)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-lightgrey)
+![H2](https://img.shields.io/badge/Database-H2-lightblue)
+![Lombok](https://img.shields.io/badge/Lombok-1.18.30-blueviolet)
+![Swagger](https://img.shields.io/badge/Swagger-2.7.0-yellowgreen)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
 ## 🌎 Enlace a la versión en inglés
 [English README](README_EN.md)
