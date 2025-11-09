@@ -375,7 +375,11 @@ El proyecto combina **tests de integración** para validar el flujo completo de 
 
 <img width="1100" height="287" alt="image" src="https://github.com/user-attachments/assets/65b50a46-4fe5-4120-9209-32e3a7c29d15" />
 
-6️⃣ Archivo de colección Postman
+6️⃣ Cobertura
+
+<img width="1017" height="591" alt="image" src="https://github.com/user-attachments/assets/78548611-b7d1-4661-b785-ff1f4020b059" />
+
+7️⃣ Archivo de colección Postman
 
 [Descargar colección Postman](postman/PokemonApi.postman_collection.json)
 
