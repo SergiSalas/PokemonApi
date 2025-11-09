@@ -1,0 +1,120 @@
+{
+	"info": {
+		"_postman_id": "7a5be127-7f5b-441f-b7bd-b478db6c20dd",
+		"name": "PokemonApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42622312"
+	},
+	"item": [
+		{
+			"name": "SyncDataBase",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/pokemon/sync",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pokemon",
+						"sync"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "HighestPokemons",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/pokemon/highest?numPokemon=5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pokemon",
+						"highest"
+					],
+					"query": [
+						{
+							"key": "numPokemon",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "HeaviestPokemons",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/pokemon/heaviest?numPokemon=5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pokemon",
+						"heaviest"
+					],
+					"query": [
+						{
+							"key": "numPokemon",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "HighestExperiencePokemons",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/pokemon/highestExperience?numPokemon=5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pokemon",
+						"highestExperience"
+					],
+					"query": [
+						{
+							"key": "numPokemon",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
