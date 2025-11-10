@@ -136,7 +136,7 @@ class PokemonSyncServiceTest {
     void syncAllPokemons_shouldThrowException_whenResultsIsNull() {
         // Given
         PokemonListResponse emptyResponse = new PokemonListResponse();
-        emptyResponse.setResults(null); // Results es null pero el objeto no
+        emptyResponse.setResults(null);
 
         when(restClient.get()).thenReturn(requestHeadersUriSpec);
         when(requestHeadersUriSpec.uri(anyString())).thenReturn(requestHeadersUriSpec);
